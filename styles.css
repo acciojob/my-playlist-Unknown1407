@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 *{
-    background-color: grey;
+    background-color: rgb(204,204,204);
 }
 #first{
     font-size: 25px;
@@ -21,6 +21,15 @@
     color: black;
     margin: auto;
 
+}
+ li{
+    width: 1380px;
+	border-radius: 10px;
+	list-style-type:none;
+	background-color:white;
+	color: white;
+	margin: auto;
+	border-left: 0px solid white;
 }
 a{
     color: black;
