@@ -13,9 +13,10 @@
 .player_one{
     height: 200px;
     width: 1380px;
-    border-left: 20px solid white;
+    border-left: solid white;
     border-radius: 10px;
     background-color: white;
+/* 	text-decoration:none; */
     font-size: 25px;
     color: black;
     margin: auto;
